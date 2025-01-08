@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+<g id="ð¦ icon &quot;instagram&quot;">
+<path id="Vector" d="M11.9993 16.8886C14.6993 16.8886 16.8882 14.6997 16.8882 11.9997C16.8882 9.29967 14.6993 7.11084 11.9993 7.11084C9.29924 7.11084 7.11041 9.29967 7.11041 11.9997C7.11041 14.6997 9.29924 16.8886 11.9993 16.8886Z" stroke="url(#paint0_linear_173_1062)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M1 16.8889V7.11111C1 3.73604 3.73604 1 7.11111 1H16.8889C20.2639 1 23 3.73604 23 7.11111V16.8889C23 20.2639 20.2639 23 16.8889 23H7.11111C3.73604 23 1 20.2639 1 16.8889Z" stroke="url(#paint1_linear_173_1062)" stroke-width="2"/>
+<path id="Vector_3" d="M18.7218 5.29537L18.7385 5.27686" stroke="url(#paint2_linear_173_1062)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_173_1062" x1="11.9993" y1="7.11084" x2="11.9993" y2="16.8886" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2E77AE"/>
+<stop offset="1" stop-color="#0D2137"/>
+</linearGradient>
+<linearGradient id="paint1_linear_173_1062" x1="12" y1="1" x2="12" y2="23" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2E77AE"/>
+<stop offset="1" stop-color="#0D2137"/>
+</linearGradient>
+<linearGradient id="paint2_linear_173_1062" x1="18.7301" y1="5.27686" x2="18.7301" y2="5.29537" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2E77AE"/>
+<stop offset="1" stop-color="#0D2137"/>
+</linearGradient>
+</defs>
+</svg>

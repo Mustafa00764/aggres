@@ -1,0 +1,147 @@
+.header{
+    background-color: #fff;
+    height: 88px;
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+    -webkit-backdrop-filter: blur(7.5px);
+    backdrop-filter: blur(7.5px);
+    border-bottom: 1px solid #eaf5ff;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    top: 0;
+
+}
+
+.header_menu{
+    display: none;
+}
+
+.header_logo{
+    height: 62px;
+}
+
+.header_container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.navbar_link{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    font-family: 'Poppins', 'sans-serif';
+}
+
+.header_buttons{
+    display: flex;
+    align-items: center;
+}
+
+.header_btn{
+    border-radius: 6px;
+    background: linear-gradient(180deg, #2E77AE, #0D2137);
+    font-size: 16px;
+    font-weight: 700;
+    color: #e8f5ff;
+    padding: 10px 16px;
+    margin-top: 25px;
+    margin-bottom: 22px;
+}
+
+.header_btn:hover{
+    background: linear-gradient(0deg, rgba(0, 0, 0, .15), rgba(0, 0, 0, .15)), linear-gradient(270deg, #0D2137, #2E77AE);
+}
+
+.link{
+    color: var(--text-link);
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.language{
+    width: 54px;
+    margin-left: 40px;
+}
+
+.menu{
+    position: fixed;
+    width: 100vw;
+    height: calc(100vh - 50px);
+    left: 0;
+    top: 50px;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    padding: 73px 20px;
+}
+
+.menu_btn{
+    border-radius: 6px;
+    background: linear-gradient(180deg,#2E77AE,#0D2137);
+    padding: 11px 15px;
+    min-width: 125px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 26px;
+    font-weight: 600;
+    color: #e8f5ff;
+    width: 225px;
+    height: 53px
+}
+
+.menu .link{
+    color: #194060;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal
+}
+
+.menu_close{
+    display: none;
+}
+
+@media (max-width: 700px) {
+
+    .header{
+        height: 50px;
+    }
+
+    .header_logo{
+        height: 40px;
+    }
+
+    .header_menu{
+        display: flex;
+    }
+    
+    .header_container{
+        gap: 40px;
+    }
+
+    .navbar_link{
+        display: none;
+    }
+
+    .header_btn{
+        display: none;
+    }
+    
+    .language{
+        margin-left: 0;
+        margin-right: 30px;
+    }
+
+}

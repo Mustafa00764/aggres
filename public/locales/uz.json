@@ -1,0 +1,261 @@
+{
+    "header": {
+        "nav": {
+            "home": "Asosiy",
+            "portfolio": "Loyihalar",
+            "aboutUs": "Haqimizda",
+            "services": "Хizmatlar",
+            "contacts": "Kontaktlar"
+        },
+        "button": "Yangi loyiha!"
+    },
+    "homePage": {
+        "sectionOne": {
+            "title": "Loyihangizni boshlaymiz!",
+            "buttonOne": "Boshlaymiz",
+            "buttonTwo": "Loyihalar"
+        },
+        "sectionTwo": {
+            "elementOne": {
+                "title": {
+                    "text1": "40",
+                    "text2": "+"
+                },
+                "text": "tugallangan loyihalar"
+            },
+            "elementTwo": {
+                "title": {
+                    "text1": "80K",
+                    "text2": "+"
+                },
+                "text": "umumiy foydalanuvchilar"
+            },
+            "elementThree": {
+                "title": {
+                    "text1": "5",
+                    "text2": "MVP"
+                },
+                "text": "Start uplar uchun"
+            },
+            "elementFour": {
+                "title": {
+                    "text1": "3500",
+                    "text2": "soat"
+                },
+                "text": "Loyihalarimiz tejaydi"
+            },
+            "elementFive": {
+                "title": {
+                    "text1": "37M",
+                    "text2": "$"
+                },
+                "text": "Biz xizmat ko'rsatgan bizneslarni umumiy bahosi"
+            }
+        },
+        "sectionThree": {
+            "name": "Kompaniyamiz haqida",
+            "title": {
+                "text1": "BIZ",
+                "text2": "IT",
+                "text3": "YECHIMLAR BERISHDA LIDERLARMIZ"
+            },
+            "text": "Biz O‘zbekiston, Qozog‘iston, Belarus va AQShdagi 40 dan ortiq biznes uchun ishonchli IT-hamkorimiz. Biz har bir loyiha uchun loyiha menejerlari, biznes-tahlilchilar, UI/UX dizaynerlari, DevOps, backend va front-end mutaxassislari jamoasini yig‘ish orqali noyob IT yechimlarini taklif qilamiz!"
+        },
+        "sectionFour": {
+            "name": "Bizning xizmatlar",
+            "cardOne": {
+                "title": "Veb dasturlar",
+                "text": "Savdolaringizni oshiradigan har qanday darajadagi veb-platformalar, korporativ saytlar va onlayn-do'konlarni ishlab chiqish"
+            },
+            "cardTwo": {
+                "title": "ERP/CRM Tizimlar",
+                "text": "Qisqa vaqt ichida har qanday qiyinchiliklarni IT tizimlari. CRM, ERP, SaaS, E-Learning, Elektron tijorat, POS, Ombor, SMS"
+            },
+            "cardThree": {
+                "title": "Mobil Ilovalar",
+                "text": "Biz foydalanuvchilar mehr bilan foydalanadigan mobil ilovalar uchun ijodiy va funksional foydalanuvchi interfeysini taklif etamiz!"
+            },
+            "cardFour": {
+                "title": "UX/UI dizayn",
+                "text": "Biz odamlarni o'ziga tortadigan va ushlab turadigan maxsus UI/UX dizayni bilan foydalanuvchilarning faolligini va sodiqligini oshiradigan haqiqiy vizual tasvirni taklif qilamiz."
+            },
+            "cardFive": {
+                "title": "Start uplar uchun MVP",
+                "text": "Startaplar bilan hamkorlikda biz g‘oyalarni minimal resurslar bilan tezroq sinab ko‘rish, kerakli salohiyat bilan kengaytirish va g‘oyani haqiqatda amalga oshirishni o‘rgandik!"
+            },
+            "cardSix": {
+                "title": "IT konsultatsiya",
+                "text": "Biz ijtimoiy tarmoqlardan tortib bozor va tanishuv ilovalarigacha turli xil murakkablikdagi ilovalarni yaratamiz"
+            }
+        },
+        "sectionFive": {
+            "name": "Hamkorlarimiz"
+        },
+        "sectionSix": {
+            "title": "Loyihangiz haqida Mutaxassislar fikri kerakmi?",
+            "button": "Uchrashuv belgilash"
+        },
+        "sectionSeven": {
+            "name": "Bizning qadriyatlar",
+            "cardOne": {
+                "title": "Shaffoflik",
+                "text": "Dynamic-da biz maqsadlarimiz va qarashlarimizni aniq baham ko'ramiz. Bu bizga mijozlarimiz va jamoamiz bilan ishonchni mustahkamlashga yordam beradi!"
+            },
+            "cardTwo": {
+                "title": "Tezlik",
+                "text": "Biz tezlik va sifatni qadrlaymiz. Biz moliyalashtiriladigan startaplar bilan ishlayotganimiz sababli, mijozlarimizga loyihalarni sifatli ishlab chiqish orqali raqobatchilardan ustun kelishlariga yordam beramiz."
+            },
+            "cardThree": {
+                "title": "Innovatsiya",
+                "text": "Loyihalarimizda eng yangi texnologiyalardan foydalanamiz. Innovatsiyalar to'xtamaydi, biz ham to'xtamaymiz."
+            },
+            "cardFour": {
+                "title": "Sinchkovlik",
+                "text": "Har bir loyiha noyobdir va biz doimo uni rivojlantirishning yangi usullarini izlaymiz. Shuning uchun biz har doim yangi echimlarni topish uchun ovdamiz."
+            },
+            "cardFive": {
+                "title": "Qiyinchilik",
+                "text": "Boshqa kompaniyalardan farqli o'laroq, biz qiyinchiliklarni yaxshi ko'ramiz. Oxir oqibat, Dynamic mavjud bo'lgan narsa."
+            },
+            "cardSix": {
+                "title": "O'sish",
+                "text": "Mijozlarimiz bilan ishlaganimizda, biz ularning g‘oyasini haqiqatga aylantirishga harakat qilamiz. Ularga o‘z mahsulotlarini ishlab chiqishda yordam berish va kerak bo‘lganda ularga rahbarlik qilish."
+            }
+        }
+    },
+    "formElement": {
+        "title": "Sizda amalga oshirish uchun g'oyangiz bormi? Keling, bu haqda suhbatlashamiz!",
+        "text": "Yoki Bizga qo'ng'iroq qiling",
+        "form": {
+            "name":  {
+                "text": "Ism",
+                "placeholder": "Ismingizni kiriting..."
+            }, 
+            "phone": {
+                "text": "telefon raqami",
+                "placeholder": "Telefon raqamingiz..."
+            }, 
+            "email": {
+                "text": "E-pochta manzili",
+                "placeholder": "Sizning e-pochta manzilingiz..."
+            },  
+            "button": "Uchrashuv belgilash"
+        }
+    },
+    "comments": {
+        "cardOne": {
+            "name": "Jasur Meliboyev",
+            "profession": "Media manager “Gosslujba UZ”",
+            "text": "Dynamic Soft jamoasining ijodiy yondashuvi, samaradorligi va mas'uliyati tufayli xizmatlarni sotish bozorimiz sezilarli darajada kengaydi. Biz mijozlarga individual yondashish uchun Dynamic Soft bilan hamkorlikni ishonamiz va qadrlaymiz."
+        },
+        "cardTwo": {
+            "name": "Ozodbek Xolturayev",
+            "profession": "COO - 'Iysar' LLC",
+            "text": "DYNAMIC SOFT bizning eng ishonchli IT hamkorimizga aylandi. Ushbu kompaniya bilan ishlashda bizga yoqqan narsa jamoaning moslashuvchanligi va turli muammolarni tezda hal qilish qobiliyati edi!)"
+        },
+        "cardThree": {
+            "name": "Dilfuza Mirzanasirovna",
+            "profession": "CEO - “YuniyGeniy”",
+            "text": "DYNAMIC SOFT jamoasi tomonidan yaratilgan 'SKS LMS' tizimi bilan biznesimizdagi ko'p muammolarni 2 yilda hal qildik. 500 dan ortiq foydalanuvchi tizimdan foydalandi va bizning barcha biznes muammolarimiz muvaffaqiyatli yechildi!"
+        },
+        "cardFour": {
+            "name": "Abdullaev Jamshid",
+            "profession": "FenixPro loyihasi asoschisi.",
+            "text": "Biz DYNAMIC SOFT jamoasiga e-post tizimini o‘rnatish va tijoratimizni tizimlashish bo‘yicha murojaat qilgan edi. Jamoa tez va samarali tarzda bizga kerakli yechimni taklif qilishdi. Natijada, vaqtimizni tejab, ishlarimiz ancha osonlashdi."
+        },
+        "cardFive": {
+            "name": "Yusuf Alimjonov",
+            "profession": "Connect Entertainment kompanyasi rahbari",
+            "text": "Connect Entertainment media kompaniyamiz uchun DYNAMIC SOFT jamoasi zamonaviy va funksional veb-sayt yaratdi. Ular bizning istaklarimizni inobatga olib, saytni sifatli, o‘z vaqtida va kreativ yondashuv bilan ishlab chiqishdi. Sizga ham tavsiya qilamiz."
+        }
+    },
+    "footer": {
+        "text": "Biz biznes uchun IT yechimlar berishda Liderlarmiz!",
+        "topSectionOne": {
+            "text1": "Xizmat",
+            "text2": "Veb dasturlar",
+            "text3": "Ilova ishlab chiqish",
+            "text4": "ERP/CRM Tizimlar",
+            "text5": "UX/UI dizayn",
+            "text6": "Start uplar uchun MVP"
+        },
+        "topSectionTwo": {
+            "text1": "Kompaniya",
+            "text2": "Biz haqimizda",
+            "text3": "Xizmatlar",
+            "text4": "Loyihalar",
+            "text5": "Biz bilan bog'lanish",
+            "text6": "Ishga olamiz"
+        }
+    },
+    "portfolioPage": {
+        "name": "Loyihalar",
+        "portfolioCard": {
+            "text": "Dynamic Soft, O'zbekistonning yetakchi fast food kompaniyasi Feed Up uchun muammosiz onlayn buyurtma platformasini yaratdi va mijozlarning...",
+            "button": "Batafsil"
+        }
+    },
+    "services": {
+        "name": "BIZNING XIZMATLARIMIZ",
+        "button": "Mening loyihamni yuboring",
+        "sectionOne": {
+            "title": "Mobil ilovalarni ishlab chiqish",
+            "text": "Biz mobil ilovalar uchun ijodiy va funksional foydalanuvchi interfeyslarini taklif qilamiz, ular foydalanuvchilar tomonidan sevib ishlatiladi!"
+        },
+        "sectionTwo": {
+            "title": "Veb-ishlab chiqish",
+            "text": "Har qanday darajadagi veb-platformalar, korporativ saytlar va onlayn do'konlarni ishlab chiqish, bu sizning savdoni oshiradi."
+        },
+        "sectionThree": {
+            "title": "UX/UI dizayn",
+            "text": "Biz maxsus UI/UX dizayni orqali foydalanuvchilarni jalb qilish va ularning sadoqatini oshiruvchi autentik vizual ko'rinishni taklif qilamiz."
+        },
+        "sectionFour": {
+            "title": "ERP/CRM ishlab chiqish",
+            "text": "Qisqa vaqt ichida har qanday murakkablikdagi IT-tizimlar: CRM, ERP, SaaS, E-Learning, E-Commerce, POS, omborxona tizimlari, SMS."
+        },
+        "sectionFive": {
+            "title": "Startuplar uchun MVP",
+            "text": "Biz startaplar bilan hamkorlikda g'oyalarni minimal resurslar bilan tezroq sinab ko'rishni, kerakli potensial bilan kengaytirishni va g'oyalarni haqiqatga aylantirishni o'rgandik!"
+        }
+    },
+    "contacts": {
+        "name": "Kontakt",
+        "button": "Yuborish"
+    },
+    "informationPage": {
+        "name": "LOYIHA HAQIDA",
+        "text": "Dynamic Soft, O'zbekistonning yetakchi fast food kompaniyasi Feed Up uchun muammosiz onlayn buyurtma platformasini yaratdi va mijozlarning tajribasini, operatsion samaradorligini oshirdi.",
+        "sectionOne": {
+            "name": "BIZNING JARAYON",
+            "card1": {
+                "title": "bosqich",
+                "text": "Dizayn"
+            },
+            "card2": {
+                "title": "bosqich",
+                "text": "Dizayn"
+            },
+            "card3": {
+                "title": "bosqich",
+                "text": "Dizayn"
+            },
+            "card4": {
+                "title": "bosqich",
+                "text": "Dizayn"
+            },
+            "card5": {
+                "title": "bosqich",
+                "text": "Dizayn"
+            }
+        },
+        "sectionThree": {
+            "name": "Barcha teglar",
+            "tags": {
+                "tag1": "Fast Food",
+                "tag2": "Web",
+                "tag3": "Delivery"
+            }
+        }
+    }
+}

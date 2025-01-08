@@ -1,0 +1,261 @@
+{
+    "header": {
+        "nav": {
+            "home": "Home",
+            "portfolio": "Portfolio",
+            "aboutUs": "About Us",
+            "services": "Services",
+            "contacts": "Contacts"
+        },
+        "button": "Start a New Project!"
+    },
+    "homePage": {
+        "sectionOne": {
+            "title": "Let's bring your project to life",
+            "buttonOne": "Get Started",
+            "buttonTwo": "Our Projects"
+        },
+        "sectionTwo": {
+            "elementOne": {
+                "title": {
+                    "text1": "40",
+                    "text2": "+"
+                },
+                "text": "completed projects"
+            },
+            "elementTwo": {
+                "title": {
+                    "text1": "80K",
+                    "text2": "+"
+                },
+                "text": "total users"
+            },
+            "elementThree": {
+                "title": {
+                    "text1": "5",
+                    "text2": "MVP"
+                },
+                "text": "for startups"
+            },
+            "elementFour": {
+                "title": {
+                    "text1": "3500",
+                    "text2": "hours"
+                },
+                "text": "saved through our projects"
+            },
+            "elementFive": {
+                "title": {
+                    "text1": "37M",
+                    "text2": "$"
+                },
+                "text": "total business value managed"
+            }
+        },
+        "sectionThree": {
+            "name": "About Our Company",
+            "title": {
+                "text1": "WE ARE LEADERS IN",
+                "text2": "IT",
+                "text3": "SOLUTIONS"
+            },
+            "text": "We are a trusted IT partner for over 40 businesses in Uzbekistan, Kazakhstan, Belarus, and the USA. We provide unique IT solutions by forming specialized teams of project managers, business analysts, UI/UX designers, DevOps engineers, backend, and frontend developers for each project!"
+        },
+        "sectionFour": {
+            "name": "Our Services",
+            "cardOne": {
+                "title": "Web Applications",
+                "text": "Developing web platforms of any complexity, corporate websites, and online stores to increase your sales."
+            },
+            "cardTwo": {
+                "title": "ERP/CRM Systems",
+                "text": "IT systems of any complexity delivered in a short time. CRM, ERP, SaaS, E-Learning, E-commerce, POS, Warehouse, SMS."
+            },
+            "cardThree": {
+                "title": "Mobile Applications",
+                "text": "We create innovative and functional user interfaces for mobile apps that your users will love!"
+            },
+            "cardFour": {
+                "title": "UX/UI Design",
+                "text": "We craft unique UI/UX designs that boost user engagement and loyalty with visually compelling solutions."
+            },
+            "cardFive": {
+                "title": "MVP for Startups",
+                "text": "Working with startups, we quickly test ideas with minimal resources, scale them effectively, and bring them to market!"
+            },
+            "cardSix": {
+                "title": "IT Consultation",
+                "text": "We build applications of varying complexity, from social networks to marketplaces and dating platforms."
+            }
+        },
+        "sectionFive": {
+            "name": "Our Partners"
+        },
+        "sectionSix": {
+            "title": "Need an expert evaluation for your project?",
+            "button": "Schedule a Meeting"
+        },
+        "sectionSeven": {
+            "name": "Our Values",
+            "cardOne": {
+                "title": "Transparency",
+                "text": "At Dynamic, we openly share our goals and vision. This fosters trust with both clients and the team!"
+            },
+            "cardTwo": {
+                "title": "Efficiency",
+                "text": "We value speed and quality. Partnering with well-funded startups, we help clients surpass competitors with high-quality project development."
+            },
+            "cardThree": {
+                "title": "Innovation",
+                "text": "We leverage the latest technologies in our projects. Innovation is continuous, and so are we."
+            },
+            "cardFour": {
+                "title": "Attention to Detail",
+                "text": "Every project is unique, and we always seek ways to improve. We continuously explore new solutions."
+            },
+            "cardFive": {
+                "title": "Challenges",
+                "text": "Unlike other companies, we embrace challenges. Ultimately, dynamic growth drives us forward."
+            },
+            "cardSix": {
+                "title": "Growth",
+                "text": "Collaborating with clients, we bring their ideas to life, help grow their products, and guide them along the way."
+            }
+        }
+    },
+    "formElement": {
+        "title": "Do you have an idea to bring to life? Let's discuss it!",
+        "text": "Or call us",
+        "form": {
+            "name": {
+                "text": "Name",
+                "placeholder": "Enter your name..."
+            },
+            "phone": {
+                "text": "Phone Number",
+                "placeholder": "Your phone number..."
+            },
+            "email": {
+                "text": "Email Address",
+                "placeholder": "Your email address..."
+            },
+            "button": "Schedule a Meeting"
+        }
+    },
+    "comments": {
+        "cardOne": {
+            "name": "Jasur Meliboyev",
+            "profession": "Media Manager 'Gossluzhba UZ'",
+            "text": "Thanks to the creative approach, efficiency, and responsibility of the Dynamic Soft team, our service sales market has significantly expanded. We trust and value our partnership with Dynamic Soft for their individual approach to clients."
+        },
+        "cardTwo": {
+            "name": "Ozodbek Kholturaev",
+            "profession": "COO - 'Iysar' LLC",
+            "text": "DYNAMIC SOFT has become our most reliable IT partner. We appreciated the team's flexibility and their ability to quickly solve various problems!"
+        },
+        "cardThree": {
+            "name": "Dilfuza Mirzanasirovna",
+            "profession": "CEO - 'YuniyGeniy'",
+            "text": "With the 'SKS LMS' system developed by the DYNAMIC SOFT team, we solved many business problems in 2 years. Over 500 users utilized the system, and all our business issues were successfully addressed!"
+        },
+        "cardFour": {
+            "name": "Abdullaev Jamshid",
+            "profession": "Founder of the FenixPro project.",
+            "text": "We contacted the DYNAMIC SOFT team to set up an email system and streamline our business. The team quickly and efficiently offered the solution we needed. As a result, we saved time and simplified our workflows."
+        },
+        "cardFive": {
+            "name": "Yusuf Alimjonov",
+            "profession": "Head of Connect Entertainment Company",
+            "text": "For our media company Connect Entertainment, the DYNAMIC SOFT team created a modern and functional website. They took our wishes into account, delivered the work on time, with high quality and a creative approach. We recommend them!"
+        }
+    },
+    "footer": {
+        "text": "We are leaders in providing IT solutions for business!",
+        "topSectionOne": {
+            "text1": "Services",
+            "text2": "Web Applications",
+            "text3": "Application Development",
+            "text4": "ERP/CRM Systems",
+            "text5": "UX/UI Design",
+            "text6": "MVP for Startups"
+        },
+        "topSectionTwo": {
+            "text1": "Company",
+            "text2": "About Us",
+            "text3": "Services",
+            "text4": "Projects",
+            "text5": "Contact Us",
+            "text6": "Careers"
+        }
+    },
+    "portfolioPage": {
+        "name": "Portfolio",
+        "portfolioCard": {
+            "text": "Dynamic Soft crafted a seamless online ordering platform for Uzbekistan's fast food leader, Feed Up, enhancing both customer experience a...",
+            "button": "View more"
+        }
+    },
+    "services": {
+        "name": "OUR SERVICES",
+        "button": "Apply my project",
+        "sectionOne": {
+            "title": "Mobile App Development",
+            "text": "We offer creative and functional user interface for mobile applications which users will use with love!"
+        },
+        "sectionTwo": {
+            "title": "Web Development",
+            "text": "Development of web platforms, corporate sites and online stores of any level that will increase your sales"
+        },
+        "sectionThree": {
+            "title": "UX/UI Design",
+            "text": "We offer authentic visual representation which will Increase users’ engagement and loyalty with the custom UI/UX design that attracts people and holds them."
+        },
+        "sectionFour": {
+            "title": "ERP/CRM Development",
+            "text": "IT Systems of any difficulties in a short period of time. CRM, ERP, SaaS, E-Learning, E-Commerce, POS, Warehouse, SMS"
+        },
+        "sectionFive": {
+            "title": "MVP For Startups",
+            "text": "In cooperation with startups, we have learned how to test ideas faster with minimal resources, scale with the right potential and implement the idea in real!"
+        }
+    },
+    "contacts": {
+        "name": "Contact us",
+        "button": "Send"
+    },
+    "informationPage": {
+        "name": "ABOUT THE PROJECT",
+        "text": "Dynamic Soft created a seamless online ordering platform for Uzbekistan's leading fast food company, Feed Up, enhancing customer experience and operational efficiency.",
+        "sectionOne": {
+            "name": "OUR PROCESS",
+            "card1": {
+                "title": "stage",
+                "text": "Design"
+            },
+            "card2": {
+                "title": "stage",
+                "text": "Design"
+            },
+            "card3": {
+                "title": "stage",
+                "text": "Design"
+            },
+            "card4": {
+                "title": "stage",
+                "text": "Design"
+            },
+            "card5": {
+                "title": "stage",
+                "text": "Design"
+            }
+        },
+        "sectionThree": {
+            "name": "All Tags",
+            "tags": {
+                "tag1": "Fast Food",
+                "tag2": "Web",
+                "tag3": "Delivery"
+            }
+        }
+    }
+}

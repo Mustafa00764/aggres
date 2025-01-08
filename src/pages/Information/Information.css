@@ -1,0 +1,222 @@
+.informtion{
+    width: 100%;
+    padding: 123px 60px 0 60px;
+}
+
+.informtion_container{
+    margin-top: 38px;
+    margin-bottom: 100px;
+    padding-left: 250px;
+    padding-right: 208px;
+}
+
+.informtion_logo {
+    display: flex;
+    align-items: center;
+    height: 150px;
+}
+
+.sectionOne{
+    display: flex;
+    gap: 78px;
+}
+
+.sectionOne img {
+    max-width: 512px;
+}
+
+.sectionOne_title h1 {
+    font-family: Space Grotesk, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+    background: var(--text-gradient);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 26px;
+}
+
+.sectionOne_category{
+    margin-top: 24px;
+    display: flex;
+    width: 110px;
+    gap: 10px;
+    min-height: 32px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, .01);
+    background: #fff;
+    box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, .1);
+    align-items: center;
+    justify-content: center;
+    padding-left: 7px;
+    padding-right: 8px;
+}
+
+.sectionOne_title p {
+    margin-top: 24px;
+    width: 391px;
+    color: var(--text-color);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 1.2px;
+}
+
+.sectionTwo{
+    margin-top: 100px;
+}
+
+.sectionTwo h1 {
+    font-family: Space Grotesk, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+    background: var(--text-gradient);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 26px;
+}
+
+.sectionTwo_cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 35px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.sectionTwo_card{
+    padding: 12px 0 25px 25px;
+    background: rgba(201, 220, 236, .15);
+    -webkit-backdrop-filter: blur(7.5px);
+    backdrop-filter: blur(7.5px);
+    width: 210px;
+}
+
+.sectionTwo_card h3{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Space Grotesk, sans-serif;
+    color: #2E77AE;
+}
+
+.sectionTwo_card p{
+    margin-top: 10px;
+    color: var(--text-color);
+    font-family: Space Grotesk, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    padding-right: 25px;
+}
+
+.informtion_img{
+    display: flex;
+    justify-content: center;
+}
+
+.sectionThree{
+    margin-top: 50px;
+}
+
+.sectionThree h1{
+    font-family: Space Grotesk, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+    background: var(--text-gradient);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 26px;
+}
+
+.sectionThree_tags{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+.sectionThree_tag{
+    border-radius: 5px;
+    border: 1px solid rgba(24, 25, 69, .15);
+    background: rgba(201, 220, 236, .15);
+    -webkit-backdrop-filter: blur(7.5px);
+    backdrop-filter: blur(7.5px);
+    padding: 10px;
+    color: #194060;
+    font-family: Space Grotesk, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+@media (max-width: 700px) {
+
+    .informtion{
+        padding: 68px 20px 0;
+    }
+
+    .informtion_container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 0;
+        margin-top: 0;
+    }
+
+    .informtion_logo{
+        height: 78px;
+    }
+
+    .sectionOne{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 25px;
+    }
+
+    .sectionOne_title{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .sectionOne_title>h1, .sectionOne_title>img{
+        display: none;
+    }
+
+    .sectionOne_title p{
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .sectionTwo{
+        margin-top: 50px;
+    }
+
+    .sectionTwo_cards{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 25px;
+        margin-bottom: 0;
+    }
+
+    .sectionTwo_card{
+        width: 286px;
+        text-align: start;
+    }
+
+    .sectionThree_tags{
+        gap: 20px;
+    }
+}
