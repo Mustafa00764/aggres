@@ -23,6 +23,7 @@
 
 .sectionOne img {
     max-width: 512px;
+    width: 100%;
 }
 
 .sectionOne_title h1 {
